@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+.vscode/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+*.log
+debug_*.txt
+_*.ps1
+.vs/
+data/
